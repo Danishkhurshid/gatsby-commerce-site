@@ -4,8 +4,8 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Shop the area',
-    description: 'Shop here',
+    title: 'Drupal commerce site',
+    description: 'Commerce site',
   },
   plugins: [
     'gatsby-plugin-sharp',
