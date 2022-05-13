@@ -6,7 +6,7 @@ A Demo site build Gatsby and Drupal commerce.
    
    Visit the BlogPost to check how to do that.
 
-    `Link to blogpost once it is published`
+    `https://www.qed42.com/insights/coe/drupal/decoupling-drupal-commerce-gatsby`
 
 2.  **Clone the repo.**
 
